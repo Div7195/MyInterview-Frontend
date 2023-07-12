@@ -1,4 +1,24 @@
-# Getting Started with Create React App
+# MyInterview
+A web app to share interview experiences of various companies.
+
+### Features
+- Create interview experience post
+- Read other experiences in detailed view
+- Filter experiences by company
+- Edit and delete experiences
+- Comment on posts
+- Authentication
+- View profile of author
+- Edit profile
+
+### Tech used
+- ReactJS
+- MaterialUI
+- MongoDB compass
+- NodeJS Express
+- Axios library for api calls
+  
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
